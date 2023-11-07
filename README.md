@@ -1,2 +1,4 @@
 # Side-Project-1
-A critical analysis of my Splatoon3 gameplay data
+Data Source:
+https://github.com/frozenpandaman/s3s
+https://github.com/frozenpandaman/splatnet2statink
